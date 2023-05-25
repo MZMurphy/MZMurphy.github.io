@@ -4,7 +4,7 @@ title: All about Example Author
 name: Example Author
 position: Developer
 description: The short description of the author
-avatar: /img/avatar.png
+avatar: /img/avataaars.png
 website: https://www.my-website.com
 facebook: https://www.facebook.com/
 twitter: https://www.twitter.com/
