@@ -19,4 +19,4 @@ description: First-year computer science student
 ### About me: 
 * DOB == 12/01/2003
 * Current student
-* Windows & maCOS 
+* Windows & maCOS
